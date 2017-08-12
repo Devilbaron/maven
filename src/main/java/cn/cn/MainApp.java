@@ -1,8 +1,4 @@
 package cn.cn;
-import
-
-
-
 import org.apache.camel.main.Main;
 
 /**
